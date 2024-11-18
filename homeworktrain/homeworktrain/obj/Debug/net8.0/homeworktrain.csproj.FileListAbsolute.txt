@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\bin\Debug\net8.0\homeworktrain.exe
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\bin\Debug\net8.0\homeworktrain.deps.json
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\bin\Debug\net8.0\homeworktrain.runtimeconfig.json
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\bin\Debug\net8.0\homeworktrain.dll
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\bin\Debug\net8.0\homeworktrain.pdb
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.AssemblyInfo.cs
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.dll
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\refint\homeworktrain.dll
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.pdb
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\homeworktrain.genruntimeconfig.cache
+C:\Users\thesh\source\repos\homeworktrain\homeworktrain\obj\Debug\net8.0\ref\homeworktrain.dll

@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\bin\Debug\net8.0\homeworkApples.exe
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\bin\Debug\net8.0\homeworkApples.deps.json
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\bin\Debug\net8.0\homeworkApples.runtimeconfig.json
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\bin\Debug\net8.0\homeworkApples.dll
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\bin\Debug\net8.0\homeworkApples.pdb
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.AssemblyInfo.cs
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.dll
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\refint\homeworkApples.dll
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.pdb
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\homeworkApples.genruntimeconfig.cache
+C:\Users\thesh\source\repos\homeworkApples\homeworkApples\obj\Debug\net8.0\ref\homeworkApples.dll
